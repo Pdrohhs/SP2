@@ -26,3 +26,17 @@ D:\pedro\Documents\Senai\AtividadeSP2\bin\Debug\net7.0\Controle_Clientes.dll
 D:\pedro\Documents\Senai\AtividadeSP2\bin\Debug\net7.0\Controle_Clientes.pdb
 D:\pedro\Documents\Senai\AtividadeSP2\obj\Debug\net7.0\Controle_Clientes.genruntimeconfig.cache
 D:\pedro\Documents\Senai\AtividadeSP2\obj\Debug\net7.0\ref\Controle_Clientes.dll
+D:\pedro\Documents\Senai\SenaiSP2\bin\Debug\net7.0\Controle_Clientes.exe
+D:\pedro\Documents\Senai\SenaiSP2\bin\Debug\net7.0\Controle_Clientes.deps.json
+D:\pedro\Documents\Senai\SenaiSP2\bin\Debug\net7.0\Controle_Clientes.runtimeconfig.json
+D:\pedro\Documents\Senai\SenaiSP2\bin\Debug\net7.0\Controle_Clientes.dll
+D:\pedro\Documents\Senai\SenaiSP2\bin\Debug\net7.0\Controle_Clientes.pdb
+D:\pedro\Documents\Senai\SenaiSP2\obj\Debug\net7.0\Controle_Clientes.GeneratedMSBuildEditorConfig.editorconfig
+D:\pedro\Documents\Senai\SenaiSP2\obj\Debug\net7.0\Controle_Clientes.AssemblyInfoInputs.cache
+D:\pedro\Documents\Senai\SenaiSP2\obj\Debug\net7.0\Controle_Clientes.AssemblyInfo.cs
+D:\pedro\Documents\Senai\SenaiSP2\obj\Debug\net7.0\Controle_Clientes.csproj.CoreCompileInputs.cache
+D:\pedro\Documents\Senai\SenaiSP2\obj\Debug\net7.0\Controle_Clientes.dll
+D:\pedro\Documents\Senai\SenaiSP2\obj\Debug\net7.0\refint\Controle_Clientes.dll
+D:\pedro\Documents\Senai\SenaiSP2\obj\Debug\net7.0\Controle_Clientes.pdb
+D:\pedro\Documents\Senai\SenaiSP2\obj\Debug\net7.0\Controle_Clientes.genruntimeconfig.cache
+D:\pedro\Documents\Senai\SenaiSP2\obj\Debug\net7.0\ref\Controle_Clientes.dll

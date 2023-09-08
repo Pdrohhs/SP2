@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\pedro\\Documents\\Senai\\AtividadeSP2\\Controle_Clientes.csproj": {}
+    "D:\\pedro\\Documents\\Senai\\SenaiSP2\\Controle_Clientes.csproj": {}
   },
   "projects": {
-    "D:\\pedro\\Documents\\Senai\\AtividadeSP2\\Controle_Clientes.csproj": {
+    "D:\\pedro\\Documents\\Senai\\SenaiSP2\\Controle_Clientes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\pedro\\Documents\\Senai\\AtividadeSP2\\Controle_Clientes.csproj",
+        "projectUniqueName": "D:\\pedro\\Documents\\Senai\\SenaiSP2\\Controle_Clientes.csproj",
         "projectName": "Controle_Clientes",
-        "projectPath": "D:\\pedro\\Documents\\Senai\\AtividadeSP2\\Controle_Clientes.csproj",
+        "projectPath": "D:\\pedro\\Documents\\Senai\\SenaiSP2\\Controle_Clientes.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "D:\\pedro\\Documents\\Senai\\AtividadeSP2\\obj\\",
+        "outputPath": "D:\\pedro\\Documents\\Senai\\SenaiSP2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"
